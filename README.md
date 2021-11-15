@@ -4,10 +4,10 @@
 <br>
 <kbd><img src="https://cdn.discordapp.com/attachments/741297902336475177/909740362183094282/unknown.png"></kbd>
 
-# What is VENUS?
+# What is Venus?
 Venus is a Dock Widget for your desktops interface. It adds a couple of really cool widgets and various fabrics to your desktop. It is currently still in Beta so small bugs are to be expected, At the moment Venus supports a Date-&-Time Widget, But in the near future releases more awesome widgets will be added with a configurable menu
 
-# What language is VENUS Written in?
+# What language is Venus Written in?
 Venus BackEnd is written in Pure Python from top to bottom. Its interface uses the PyQt libary version 5
 
 # Is Venus an Open-Source Project?
