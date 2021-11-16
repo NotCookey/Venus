@@ -2,7 +2,7 @@
 <h2 align="center">VEПUS</h2>
 <p align="center"><b>A Windows Dock Widget Written In Pure Python</b></p>
 <br>
-<kbd><img src="https://cdn.discordapp.com/attachments/741297902336475177/909740362183094282/unknown.png"></kbd>
+<kbd><img src="https://cdn.discordapp.com/attachments/905732238237368351/910124269797781504/unknown.png"></kbd>
 
 # What is Venus?
 Venus is a Dock Widget for your desktops interface. It adds a couple of really cool widgets and various fabrics to your desktop. It is currently still in Beta so small bugs are to be expected, At the moment Venus supports a Date-&-Time Widget, But in the near future releases more awesome widgets will be added with a configurable menu
