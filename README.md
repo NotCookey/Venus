@@ -19,4 +19,3 @@ Yes! Venus is a 101% Safe to use application. The application is highly obfuscat
 <br>
 
 > **Created and Maintained by SecretsX (Me)**<br>
-> **Discord User : Konoa#7218**
