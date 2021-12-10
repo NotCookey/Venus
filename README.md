@@ -10,4 +10,5 @@ Venus is a Dock Widget for your desktops interface. It adds a couple of really c
 # What language is Venus Written in?
 Venus BackEnd is written in Pure Python from top to bottom. Its interface uses the PyQt libary version 5
 
-<br>
+# Why are some parts Obfuscated?
+Thats cause Venus wasn't meant to be an open-source project earlier at all. But I just made the project open source as am not willing to keep it a obfuscated-secured application anymore. Parts of the Repository is still Obfuscated as it was uploaded earlier, To View the Non Obfuscated and Clean Code check the `src` folder in the repo. It contains all new fresh and nonfuscated code to read and use.
