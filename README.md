@@ -11,5 +11,3 @@ Venus is a Dock Widget for your desktops interface. It adds a couple of really c
 Venus BackEnd is written in Pure Python from top to bottom. Its interface uses the PyQt libary version 5
 
 <br>
-
-> **Created and Maintained by SecretsX (Me)**<br>
