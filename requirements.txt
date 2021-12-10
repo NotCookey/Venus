@@ -4,5 +4,6 @@ os
 keyboard
 win32con
 win32gui
+json
 ctypes
 datetime
