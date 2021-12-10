@@ -1,0 +1,7 @@
+PyQt5
+sys
+os
+keyboard
+win32con
+win32gui
+ctypes
